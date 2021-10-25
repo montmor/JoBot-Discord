@@ -1,4 +1,4 @@
-# Jó Bot
+# Jó - Bot
 
 ## Introdução
 
