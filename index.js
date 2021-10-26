@@ -4,4 +4,8 @@ const client = new Client({
 })
 const config = require('./config.json')
 
+client.on('ready', () => {
+  console.log("Estou online!!!")
+})
+
 client.login(config.token)
