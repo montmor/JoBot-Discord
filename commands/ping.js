@@ -21,6 +21,6 @@ module.exports = {
           embed_1.setDescription(`**O meu ping está em \`${bot_ping} ms\`.**`)
         ]
       })
-    }, 4000)
+    })
   }
 }
