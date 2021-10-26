@@ -2,10 +2,10 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
   name: 'ping',
-  author: 'Equipe Rocket',
+  author: 'Equipe Rocket_oof',
 
   run: async (client, message, args) => {
-    let color_embed
+    const color_Embed = '#ff9000'
 
     let bot_ping = client.ws.ping
 

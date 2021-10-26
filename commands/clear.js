@@ -1,6 +1,6 @@
 module.exports = {
   name: 'clear',
-  author: 'Equipe Rocket',
+  author: 'Equipe Rocket_oof',
 
   run: async (client, message, args) => {
     let channel = message.channel

@@ -11,6 +11,7 @@ client.login(config.token)
 
 client.once('ready', () => {
   console.log('✅ - Estou online!')
+  client.user.setActivity({ type: 'WATCHING', name: 'j!help' })
 })
 
 client.on('messageCreate', message => {
