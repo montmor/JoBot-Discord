@@ -14,13 +14,12 @@ client.once('ready', () => {
 })
 
 client.on('messageCreate', message => {
-  if (message.author.bot == true || message.channel.type === "dm") return
-  if (!message.content.toLowerCase().startsWith('config.prefix')) return
-  
-  
+  if (message.author.bot == true || message.channel.type === 'dm') return
+  if (!message.content.toLowerCase().startsWith(config.prefix)) return
+
   const args = message.content.trim().slice(config.prefix.length).split(/ +/g)
   const command = args.shift().toLowerCase()
-  
+
   try {
     const commandFile = require(`./commands/${command}.js`)
     commandFile.run(client, message, args)

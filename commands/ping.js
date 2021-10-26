@@ -2,7 +2,7 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
   name: 'ping',
-  author: 'Bianca',
+  author: 'Equipe Rocket',
 
   run: async (client, message, args) => {
     let color_embed
