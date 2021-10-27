@@ -1,6 +1,6 @@
 # Jó - Bot
 
-## Introdução
+## Introduction
 
 This Bot is being created to generate entertainment on a Christian Discord server, and here we will leave the creation process.
 
