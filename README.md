@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Esse Bot está sendo criado para gerar intreterimento em um servidor Discord Cristão, e aqui deixaremos o processo de criação. Est
+This Bot is being created to generate entertainment on a Christian Discord server, and here we will leave the creation process.
 
 ## Techs
 
-Aqui estaremos atualizando as tecnologias que estamos utilizando de acordo com o desenvolvimento do projeto.
+Here we will be updating the technologies we are using according to the project development.
 
-- [JavaScript](https://www.javascript.com/): linguagem de programação que permite a você implementar itens complexos em páginas web;
-- [Node.js](https://nodejs.org/en/): Utilizado para trazer o JavaScript ao Back end;
-- [Discord Developer Portal](https://discord.com/developers/applications): Site utilizado para registrar a aplicação/bot;
-- [Discord.js](https://discord.js.org/#/): Biblioteca para integração com o Discord;
+- [JavaScript](https://www.javascript.com/): programming language that allows you to implement complex items on web pages;
+- [Node.js](https://nodejs.org/en/): used to bring JavaScript to the Back end;
+- [Discord Developer Portal](https://discord.com/developers/applications): site used to register the application/bot;
+- [Discord.js](https://discord.js.org/#/): library for integration with Discord;
