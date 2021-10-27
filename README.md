@@ -1,9 +1,10 @@
 # Jó - Bot <div style="display: inline_block"><br>
 
-  <img align="right" alt="Bia" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/899004272606330892/902710157165854770/Jo.png?width=671&height=671">
 </div>
 
 ## Introduction
+
+  <img align="right" alt="Bia" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/899004272606330892/902710157165854770/Jo.png?width=671&height=671">
 
 This Bot is being created to generate entertainment on a Christian Discord server, and here we will leave the creation process.
 
